@@ -1,6 +1,6 @@
 body {
     background-color: rgb(119, 224, 250);
-    padding-left: 7em;
+    padding-left: 5em;
     font-family: Georgia, "Times New Roman",
         Times, serif;
     color: black;
@@ -42,4 +42,8 @@ h1:active {
 
 button {
     background-color:rgb(255, 255, 255)
+}
+fieldset{
+    border-radius: 3px;
+    border-color: black;
 }
