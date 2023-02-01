@@ -1,58 +1,11 @@
 body {
-    background-color: rgba(129, 214, 248, 0.945);
+    background-color: rgb(119, 224, 250);
     padding-left: 5em;
     font-family: Georgia, "Times New Roman",
         Times, serif;
     color: black;
     font-size: 14;
 }
-
-dl {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    font-size: 12;
-    color: rgb(110, 0, 153);
-    text-align: center;
-}
-
-dt {
-    font-weight: bold;
-    text-decoration: underline;
-    color: black;
-}
-
-dd {
-    margin: 0;
-    padding: 0 0 0.5em 0;
-}
-
-dl {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    color: blue;
-    font-size: 10;
-}
-
-
-div.container {
-    text-align: center;
-}
-
-ul.circulo {
-    list-style-type: circle;
-    padding-left: 40px;
-    text-align: center;
-    display: inline-block;
-}
-
-p {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    color: black;
-    font-size: 12;
-    font-weight: bold;
-}
-
 
 h1 {
     color: rgb(128, 0, 96);
@@ -62,23 +15,9 @@ h1 {
 }
 
 h2 {
-    color: rgb(128, 0, 96);
+	color: rgb(0, 0, 0);
     font-size: 15;
     text-align: center;
-}
-
-h3 {
-    color: rgb(118, 68, 138);
-    font-size: 15;
-    text-align: center;
-    text-decoration: underline;
-}
-
-
-h4 {
-    color: black;
-    font-size: 10;
-    text-align: left;
 }
 
 h1:link {
@@ -101,3 +40,6 @@ h1:active {
     text-decoration: none;
 }
 
+button {
+    background-color:blueviolet
+}
